@@ -1,0 +1,6 @@
+[package]
+name = "table_of_n"
+version = "0.1.0"
+authors = ["Derek Jenkins <derektjenkins@gmail.com>"]
+
+[dependencies]
